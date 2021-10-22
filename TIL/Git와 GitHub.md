@@ -1,7 +1,6 @@
 # Git
 
 > 코드 버전을 관리하는 시스템(version control system)
-> 
 
 오픈소스에 기여를 하기 위해서
 
